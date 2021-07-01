@@ -1,4 +1,4 @@
-# git basics
+# Git Basics
 
 - 'git init': initialize git repository in current working directory
 - 'git status: gives you the status
@@ -19,7 +19,7 @@
 - git ignores empty folders
 -'use .gitkeep to show a folder that is initially empty and you want to keep it for future use'
 
-# remotes
+# Remotes
 -'ssh-keygen': to create ssh keys
   -'git remote add <URL>': adds the url
   'git push origin main': push to the main brand to the origin remote
