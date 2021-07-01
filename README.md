@@ -18,4 +18,9 @@
 
 - git ignores empty folders
 -'use .gitkeep to show a folder that is initially empty and you want to keep it for future use'
--
+
+# remotes
+-'ssh-keygen': to create ssh keys
+  -'git remote add <URL>': adds the url
+  'git push origin main': push to the main brand to the origin remote
+  
